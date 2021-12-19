@@ -8,4 +8,4 @@ Just add `simple_ansi` crate to your `Cargo.toml` and you are
 ready to go.
 
 ## How Do I use it?
-Just see the docs. Its that simple. **TODO: Add Document Instructions**
+Just see the docs [here](https://docs.rs/simple_ansi). Its that simple.
